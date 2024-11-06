@@ -1,81 +1,38 @@
 <h1 align="center" border="0">Your Trusted<br>Advisor in Asia<br>Pacific Telecom<br>&nbsp;</h1>
-<br>
-
-<b>Hi there, and welcome to infostam!</b>
-
-We're a down-to-earth bunch of consultants and system integration experts based in Singapore, with a shared passion for one thing: helping businesses navigate the dynamic and diverse Asia Pacific telecom landscape.
 
 <br>
 
-<table border="0">
-    <tr valign="top">
-        <td width="33%"><span style="color:#666666"><b>Technology</b></span>
-<h3>The Impact of AI in Telecom</h3>
-AI technology is becoming a significant focus in the Telecommunications industry, with discussions centred around its applications. Telcos are using AI, which encompasses Deep learning (DL), machine learning (ML), and natural language processing (NLP), to discover valuable information, enhance customer satisfaction, streamline operations, and boost revenue. Telcos must consider whether they are utilising this technology effectively to address their business needs
-        </td>
-        <td width="33%"><b>Reliability</b>
-<h3>Telemetry</h3>
-Telemetry is the in situ collection of measurements or other data at remote points and their automatic transmission to receiving equipment (telecommunication) for monitoring. That means monitoring not only your base telecom equipment but also all the equipment that supports it. In the ever-advancing world of technology, the demand for next-generation telemetry systems is on the rise. Building a strong foundation for next-gen telemetry systems starts with establishing a reliable telecommunications infrastructure.       
-        </td>
-        <td width="33%"><b>Quality</b>
-<h3>RF Optimization</h3>
-As a shared medium, wireless signal may be competing to broadcast. Broader technology trends see the density of clients continuing to increase dramatically. Optimization is an important step in the life cycle of a wireless network. Overall, RF optimization is a complex, iterative process that demands a deep understanding of radio wave behavior, network architecture, and advanced tools to ensure optimal performance and quality of wireless communication networks.
-        </td>
-    </tr>
-</table>
+### Building the Future of Telecommunications
+
+We're a team of passionate developers, engineers, and innovators dedicated to shaping the future of telecommunications. We specialize in crafting innovative software solutions that drive efficiency, reliability, and user experience in the ever-evolving telecom industry.
 
 <br>
 
-We've been around the block, with 25 years of experience under our belts tackling complex projects for mobile network operators, service providers, and tech vendors across the region. We may not have all the answers, but we know where to find them. Think of us as your friendly neighborhood sherpas, guiding you through the mountains and valleys of this ever-evolving market.
+### Our Expertise
+
+- **Telecom Software Development**: Designing, developing, and deploying robust telecom applications.
+- **Network Programming**: Building efficient and scalable network solutions.
+- **Cloud Technologies**: Leveraging cloud platforms for flexible and cost-effective deployments.
+- **Programming Languages**: Proficient in a wide range of languages, including Python, Java, C++, and more.
+- **AI and Machine Learning**: Applying AI to optimize network performance and automate tasks.
 
 <br>
 
-<table border="0">
-    <tr valign="center">
-        <td width="10%" align="center"><h1>:zap:</h1></td>
-        <td width="90%"><h3>Deep Regional Expertise</h3>
-From the bustling metropolises of Japan to the remote islands of Indonesia, we understand the unique challenges and opportunities of each market.
-        </td>
-    </tr>
-    <tr valign="center">
-        <td width="10%" align="center"><h1>&#x2699;</h1></td>
-        <td width="90%"><h3>Technical Know-How</h3>
-Our team boasts a pool of wizards and whizzes with expertise in everything from network optimization to cutting-edge mobile technologies.
-        </td>
-    </tr>
-    <tr valign="center">
-        <td width="10%" align="center"><h1>:trophy:</h1></td>
-        <td width="90%"><h3>A Collaborative Spirit</h3>
-We believe in working alongside our clients, building open and honest relationships that thrive on mutual trust and respect.
-        </td>
-    </tr>
-    <tr valign="center">
-        <td width="10%" align="center"><h1>:iphone:</h1></td>
-        <td width="90%"><h3>A Genuine Enthusiasm for Tech</h3>
-We get genuinely excited about the transformative power of technology, and it fuels our dedication to helping you unlock its potential.
-        </td>
-    </tr>
-</table>
+### Our Mission
+
+To empower businesses and individuals with cutting-edge technology that revolutionizes the way we connect.
 
 <br>
 
-Speaking of unlocking potential, let's talk about the Asia Pacific Market Access Program (MAP)! This dynamic partnership with a select group of specialist technology providers in the mobile space, like ourselves, is all about making cutting-edge solutions accessible to operators throughout the region. We're proud to drive this initiative, using our collective expertise to bridge the gap between innovative tech and real-world implementation.
+### Join Us
+
+- Contribute to open-source projects and share knowledge.
+- Collaborate on exciting projects and challenges.
+- Stay updated on the latest trends and innovations in the telecom industry.
 
 <br>
 
-We're not here to toot our own horn, but we are confident that our experience, technical prowess, and unwavering commitment to your success make us a valuable partner in navigating the exciting world of Asia Pacific telecom. So, whether you're a seasoned player or just setting foot in the region, come let's chat! We're always up for a good tech conversation and, who knows, we might just become your trusted guide in this thrilling landscape.
-
-<br>
-
-We look forward to hearing from you!
-
-<br>
-
-P.S. We love coffee (as you can probably tell from our caffeine-fueled enthusiasm). So, if you're ever in Singapore, swing by and we'll brew a pot together!
-
-<br>
-
-### Tech Stack:
+### Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)
 
 <br>
@@ -87,9 +44,13 @@ P.S. We love coffee (as you can probably tell from our caffeine-fueled enthusias
 </p>
 
 - - -
-:copyright: 2023-2024 INFOSTAM PTE. LTD.<br>
-[infostam.com](https://www.infostam.com)
-<!---
-infostam/infostam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+<p align="center">
+<a href="https://www.linkedin.com/company/infostam"><img src="https://ssl.gstatic.com/atari/images/sociallinks/linkedin_white_36dp.png" width="32"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.infostam.com"><img src="https://ssl.gstatic.com/atari/images/sociallinks/link_white_36dp.png" width="32"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:info@infostam.com?Subject=Let%27s%20Chat%20Tech%21"><img src="https://ssl.gstatic.com/atari/images/sociallinks/email_white_36dp.png" width="32"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://infostam.atlassian.net"><img src="https://pbs.twimg.com/profile_images/1832182590721196032/MxXtWalG_400x400.png" width="32"/></a>
+</p>
